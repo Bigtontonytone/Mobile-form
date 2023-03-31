@@ -1,0 +1,34 @@
+.container  {
+  background-color: #6037c1;
+  max-width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+  
+}
+
+.top-icons {
+  background-color: blue;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar-menu span{
+  margin-right: 20px;
+}
+
+.navbar-menu {
+  display: flex;
+  align-items: center;
+}
+
+.nav-right {
+  display: flex;
+}
